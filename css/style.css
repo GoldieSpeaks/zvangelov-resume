@@ -506,6 +506,8 @@ h5 {
 }
 .inner {
     padding: 70px;
+    display: flex;
+    flex-flow: column;
 }
 .inner p {
     position: relative;
@@ -610,7 +612,7 @@ a.totop-link {
    ========================================================================== */
 
 .about {
-    background: url(http://placehold.it/804x1080/000) no-repeat 100% 0 scroll #000;
+    background: url(#Find-Me) no-repeat 100% 0 scroll #000;
     background-size: contain;
 }
 .about .inner {

@@ -47,6 +47,11 @@
 	background: transparent;
 	display:none;
 }
+.image-holder {
+width: 100px;
+height: 100px;
+padding-bottom: 30px;
+}
 .jspVerticalBar *, .jspHorizontalBar * {
 	margin: 0;
 	padding: 0;
