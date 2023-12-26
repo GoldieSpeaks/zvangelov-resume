@@ -49,8 +49,23 @@ body {
     flex-flow: column;
 }
 
-.smaller-text {
-    padding-top: 55px;
-    font-size: 18px;
+.large-title{ 
     color: white;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.sub-title {
+    margin-top: -25px;
+    font-size: 24px;
+}
+
+.main-content { 
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-content{
+    padding-top: 50px;
 }
