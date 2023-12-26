@@ -58,6 +58,9 @@ body {
 .sub-title {
     margin-top: -25px;
     font-size: 24px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 .main-content { 
@@ -68,4 +71,8 @@ body {
 
 .sub-content{
     padding-top: 50px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
 }
