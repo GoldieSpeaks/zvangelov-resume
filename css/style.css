@@ -57,6 +57,46 @@ a {
     -webkit-transition-duration: .2s;
     -o-transition-duration: .2s;
 }
+
+/* ==========================================================================
+   #Progressbar
+   ========================================================================== */
+
+.body-selector {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.navi { 
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    gap: 15px;
+}
+
+.flex {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+
+.header-content {
+    max-width: 80%;
+}
+
+.largest {
+    font-size: 64px;
+    line-height: 65px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+
+
 a:hover {
     color: #7dba5c;
 }
