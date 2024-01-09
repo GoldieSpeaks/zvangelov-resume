@@ -66,3 +66,23 @@ body {
     display: flex;
     flex-flow: row;
 }
+
+.container-2 {
+    
+}
+
+.blocks {
+    display: flex;
+    flex-flow: row;
+    gap: 30px;
+}
+.hero {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-right{ 
+    max-width: 50%;
+}
