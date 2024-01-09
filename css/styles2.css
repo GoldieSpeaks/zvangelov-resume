@@ -79,10 +79,10 @@ body {
 .hero {
     display: flex;
     flex-flow: row;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
 .hero-right{ 
-    max-width: 50%;
+    max-width: 60%;
 }
