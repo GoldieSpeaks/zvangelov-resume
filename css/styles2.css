@@ -34,7 +34,6 @@ body {
 
 .title-section {
    text-align: center;
-   padding-top: 100px;
 }
 
 .title{ 
@@ -85,4 +84,9 @@ body {
 
 .hero-right{ 
     max-width: 60%;
+}
+
+.hero {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
