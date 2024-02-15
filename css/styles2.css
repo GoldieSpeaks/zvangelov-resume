@@ -29,15 +29,17 @@ a{
 .right-container { 
     max-width: 100%;
     color: black;
+    gap: 25px;
+    padding-right: 30px;
+    padding-left: 100px;
+}
+.sub-right{
     display: flex;
     gap: 25px;
-    padding-right: 100px;
 }
 .left-container{
     max-width: 50%;
 }
-
-
 .main-texting {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -45,7 +47,6 @@ a{
     align-items: center;
     justify-content: space-between;
 }
-
 .section1 {
     padding: 25px;
 }
